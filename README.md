@@ -51,7 +51,7 @@ Watchface.exe 9fc666a9d0e2_15032019/9fc666a9d0e2_15032019.json
 -   **Transparent**  0xFEFE00
 
 ### Define background image
-```json
+```
 "Background": {
     "Image": {
       "X": 0,
@@ -61,7 +61,7 @@ Watchface.exe 9fc666a9d0e2_15032019/9fc666a9d0e2_15032019.json
   },
 ```
 ### We define the time
-```json
+```
 "Time": {
     "Hours": {
       "Tens": {
@@ -96,7 +96,7 @@ Watchface.exe 9fc666a9d0e2_15032019/9fc666a9d0e2_15032019.json
 
 ### We define the data of the activities
 * Steps
-```json
+```
 "Activity": {
     "Steps": {
       "TopLeftX": 64, // positioning using distances
@@ -111,7 +111,7 @@ Watchface.exe 9fc666a9d0e2_15032019/9fc666a9d0e2_15032019.json
 ```
 
 * Pulse
-```json
+```
 "Pulse": {
       "TopLeftX": 23, // positioning using distances
       "TopLeftY": 158, // to the different corners
@@ -125,7 +125,7 @@ Watchface.exe 9fc666a9d0e2_15032019/9fc666a9d0e2_15032019.json
 ```
 
 * Weather
-```json
+```
 "Weather": {
     "Icon": {
       "CustomIcon": {
@@ -138,7 +138,7 @@ Watchface.exe 9fc666a9d0e2_15032019/9fc666a9d0e2_15032019.json
 ```
 
 * Date
-```json
+```
 "MonthAndDay": {
       "Separate": {
         "Month": {
@@ -173,7 +173,7 @@ Watchface.exe 9fc666a9d0e2_15032019/9fc666a9d0e2_15032019.json
 ![](images/037.png) 
 ![](images/038.png) 
 ![](images/039.png) 
-```json
+```
 "WeekDay": {
       "X": 133, // position on the shaft XY
       "Y": 26,
