@@ -1,4 +1,4 @@
-![GitHub top language](https://img.shields.io/github/languages/top/azagramac/WatchfaceAmazfitBip.svg) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/azagramac/WatchfaceAmazfitBip/master.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/azagramac/WatchfaceAmazfitBip_v1.svg) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/azagramac/WatchfaceAmazfitBip_v1/master.svg)
 
 # Watchface for Amazfit Bip
 
